@@ -5,7 +5,7 @@ I'm a senior at Falls Church High School planning to major in Computer Science /
 Most of my code so far is Java from AP Computer Science and data structures: games, simulations and data structures built from scratch.
 
 ## Projects
-- [**App (work in progress)**](https://github.com/mathiasbrook/APP-REPO): what I'm building right now
+- [**Ancient Church**](https://github.com/mathiasbrook/ancient-church) 🚧: what I'm building right now, a Bible / Church Fathers app with an AI that answers only from Church sources (launching May 2027)
 - [**Mancala**](https://github.com/mathiasbrook/mancala): console Mancala against the computer, with captures and extra turns
 - [**Tic-Tac-Toe**](https://github.com/mathiasbrook/tic-tac-toe): easy and hard AI (the hard one blocks your wins)
 - [**McRonald Queue Simulation**](https://github.com/mathiasbrook/mcronald-queue-sim): drive-thru simulation with my own linked list queue and wait time stats
@@ -17,4 +17,3 @@ Most of my code so far is Java from AP Computer Science and data structures: gam
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/mathias-brook-0ab52b24b)
 
-<!-- Replace mathiasbrook with the GitHub username and APP-REPO with the app's repo name. -->
